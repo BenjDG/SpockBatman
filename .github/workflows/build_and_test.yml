@@ -47,8 +47,8 @@ jobs:
         
         // Replace the values here with your names you submitted in one of 
         // The previous sections
-        application_name: django-github-actions-aws
-        environment_name: django-github-actions-aws
+        application_name: spockbatman
+        environment_name: spockbatman
         
         // The version number could be anything. You can find a dynamic way 
         // Of doing this.
