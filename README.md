@@ -7,6 +7,7 @@
 * https://code.visualstudio.com/docs/python/tutorial-django
 * https://devdocs.io/
 
+# Site: http://spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com/
 
 - Change VScode settings 'end of line' to LF
 - 
