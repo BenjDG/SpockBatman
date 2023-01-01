@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c0331e-e2b1-432a-b24a-589e72229f58" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.ebextensions/eb.config" beforeDir="false" afterPath="$PROJECT_DIR$/.ebextensions/eb.config" afterDir="false" />
-    </list>
+    <list default="true" id="54c0331e-e2b1-432a-b24a-589e72229f58" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
