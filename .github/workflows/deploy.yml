@@ -23,5 +23,5 @@ jobs:
         application_name: SpockBatman
         environment_name: SpockBatman
         version_label: 12345
-        region: us-west-2
+        region: us-east-1
         deployment_package: deploy.zip
