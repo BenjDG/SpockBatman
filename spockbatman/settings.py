@@ -27,8 +27,7 @@ SECRET_KEY = 'django-insecure-16&)9yhuun*tj+su$l!xe17$&9o-not*s2_+52v5o&zq*6nlwk
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com',
-    '*'
+    'spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com'
     ]
 
 
