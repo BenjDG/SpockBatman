@@ -10,4 +10,4 @@
 # Site: http://spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com/
 
 - Change VScode settings 'end of line' to LF
-- 
+- Start local virtual environment 'source SpockEnv/bin/activate'
