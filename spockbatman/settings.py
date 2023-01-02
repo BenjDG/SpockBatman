@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-16&)9yhuun*tj+su$l!xe17$&9o-not*s2_+52v5o&zq*6nlwk
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com'
+    'spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com',
+    '127.0.0.1'
     ]
 
 
@@ -119,6 +120,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = 'static/'
+
+STATICFILES_DIRS = [
+    BASE_DIR / "static",
+    '/var/www/static/',
+]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field

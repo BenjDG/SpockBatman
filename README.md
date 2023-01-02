@@ -10,4 +10,5 @@
 # Site: http://spockbatman-env.eba-uphammdm.us-east-1.elasticbeanstalk.com/
 
 - Change VScode settings 'end of line' to LF
-- Start local virtual environment 'source SpockEnv/bin/activate'
+- To start local virtual environment cd to inside SpockBatman then run 'source SpockEnv/bin/activate'
+- To start local server run 'python manage.py runserver'
