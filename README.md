@@ -12,3 +12,7 @@
 - Change VScode settings 'end of line' to LF
 - To start local virtual environment cd to inside SpockBatman then run 'source SpockEnv/bin/activate'
 - To start local server run 'python manage.py runserver'
+- deactivate to stop the virtual environment
+
+- admin
+- bananacar
